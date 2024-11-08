@@ -9,7 +9,9 @@ Seja Bem-vindo/a ao repositório do grupo Vscoders, somos um grupo dedicado ao d
 # Integrantes do projeto 
 
 Igor Martins dos Santos - https://github.com/IgorMartins04 
-![Foto de Igor](Fotos_integrantes/imagem_Igor_git.jpg)
+
+![Foto de Igor](/Fotos_integrantes/imagem_Igor_git.jpg)
+
 
 Eleonora Gaspari - https://github.com/nora-gaspari
 
