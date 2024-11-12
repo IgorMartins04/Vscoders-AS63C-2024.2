@@ -14,12 +14,16 @@ Seja Bem-vindo/a ao repositório do grupo Vscoders, somos um grupo dedicado ao d
 > ![Foto de Igor](assets/imagem_Igor_git.jpg)
 >
 > Eleonora Gaspari - https://github.com/nora-gaspari
+>![Foto de Eleonora](assets/imagem_eleonora.jpg)
 >
 > Joaquim Rodrigues - https://github.com/Joaquim-35
+>![Foto de Joaquim](assets/imagem_jojo.jpg)
 >
 > Luiz Antonio da Silva Marçon - https://github.com/MarconLuizz
+>![Foto de Luiz](assets/imagem_luiz.jpg)
 >
 > Talita Leoni - https://github.com/TalitaLeoni
+>![Foto de Talita](assets/imagem_talita.jpg)
 
 
 # Descrição do Projeto 
