@@ -1,14 +1,12 @@
 [Vscoders-AS63C-2024.2]
 
-# Apresentação 
+# Apresentação - AS63C - Desenvolvimento Ágil - 2024 - 3º Semestre
 
 Seja Bem-vindo/a ao repositório do grupo Vscoders, somos um grupo dedicado ao desenvolvimento ágil, nosso objetivo é apresentar nosso projeto e utilizar de metodologias ágeis para realização do mesmo.
 
-# AS63C - Desenvolvimento Ágil - 2024 - 3º Semestre
-
->[INTEGRANTES]
+>INTEGRANTES
 >
-> Integrantes do projeto
+>
 > Igor Martins dos Santos - https://github.com/IgorMartins04
 >
 > ![Foto de Igor](assets/imagem_Igor_git.jpg)
@@ -36,8 +34,19 @@ Seja Bem-vindo/a ao repositório do grupo Vscoders, somos um grupo dedicado ao d
   
   Essa solução busca atender tanto a quem precisa de um carro temporariamente quanto a quem deseja gerar renda por meio do aluguel de veículos, promovendo acessibilidade e inovação no mercado de mobilidade.
 
+# Apresentação da nossa logo:
+
+![Foto da logo](assets/logoAgil.png)
+
 >[!IMPORTANT]
-> ### por enquanto não há documentação, em breve em atualizações futuras...
+> Links para os requisitos do projeto
+>  ><ul>
+>    <li><a href= "Requisitos de usuário/RF.md">Requisitos Funcionais</a></li>
+>    <li><a href= "Requisitos de Usuário/RNF.md">Requisitos Não Funcionais</a></li>
+>    <li><a href= "Requisitos de sistema/Projeto Alfa.asta">Requisitos de Sistema</li>
+>  </ul>
+
+
 
 
 
