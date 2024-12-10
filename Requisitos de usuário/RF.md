@@ -15,3 +15,9 @@
 | RF09 |   O sistema deve permitir ao proprietário gerenciar seus veículos cadastrados (atualizar, desativar, excluir).   |    Alta  |  RF03, RF08    | 
 | RF10 |   O locatário deve poder acessar o histórico de suas reservas realizadas.     |      Média     |    RF06     | 
 | RF11|       O sistema deve exibir avaliações e comentários dos locatários sobre os veículos alugados.    |     Média    |  RF05, RF07    | 
+
+# Retornar para o menu
+
+<ul>
+  <p><a href="README.md">Retornar para o README</p>
+</ul>
