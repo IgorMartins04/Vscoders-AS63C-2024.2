@@ -28,9 +28,11 @@ Seja Bem-vindo/a ao repositório do grupo Vscoders, somos um grupo dedicado ao d
 
 # Descrição do Projeto 
 
-Nosso projeto tem o objetivo de um sistem de aluguel e compra de veículos, será uma plataforma completa e de facil utilização. 
-Ela oferecerá uma interface intuitiva tanto para os clientes quanto para os administradores, facilitando o acesso para inúmeras opções de veículos. Nosso público alvo é direcionado tanto para as pessoas que desejam, quanto para aquelas que querem adquirir um veículo.  
-
+  O sistema é uma plataforma digital que conecta pessoas interessadas em alugar carros a proprietários que desejam disponibilizar seus veículos para locação, sejam eles pessoas físicas ou jurídicas.
+  Os locatários (usuários que alugam carros) podem navegar por uma ampla variedade de veículos, filtrar por categoria, preço e localização, e realizar reservas de forma rápida e segura.
+  Os proprietários (usuários que disponibilizam carros) têm acesso a ferramentas para cadastrar seus veículos, definir preços e condições de uso, acompanhar reservas e gerenciar pagamentos.
+  
+  Essa solução busca atender tanto a quem precisa de um carro temporariamente quanto a quem deseja gerar renda por meio do aluguel de veículos, promovendo acessibilidade e inovação no mercado de mobilidade.
 
 >[!IMPORTANT]
 > ### por enquanto não há documentação, em breve em atualizações futuras...
