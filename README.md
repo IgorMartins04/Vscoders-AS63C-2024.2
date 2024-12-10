@@ -29,7 +29,9 @@ Seja Bem-vindo/a ao repositório do grupo Vscoders, somos um grupo dedicado ao d
 # Descrição do Projeto 
 
   O sistema é uma plataforma digital que conecta pessoas interessadas em alugar carros a proprietários que desejam disponibilizar seus veículos para locação, sejam eles pessoas físicas ou jurídicas.
+  
   Os locatários (usuários que alugam carros) podem navegar por uma ampla variedade de veículos, filtrar por categoria, preço e localização, e realizar reservas de forma rápida e segura.
+  
   Os proprietários (usuários que disponibilizam carros) têm acesso a ferramentas para cadastrar seus veículos, definir preços e condições de uso, acompanhar reservas e gerenciar pagamentos.
   
   Essa solução busca atender tanto a quem precisa de um carro temporariamente quanto a quem deseja gerar renda por meio do aluguel de veículos, promovendo acessibilidade e inovação no mercado de mobilidade.
