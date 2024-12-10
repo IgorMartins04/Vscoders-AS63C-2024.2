@@ -64,3 +64,9 @@
 </table>
 
 <div style="text-align: center">
+
+# Retornar para o menu
+
+<ul>
+  <p><a href="README.md">Retornar para o README</p>
+</ul>
