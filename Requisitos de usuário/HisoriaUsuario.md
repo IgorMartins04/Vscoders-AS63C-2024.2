@@ -68,5 +68,5 @@
 # Retornar para o menu
 
 <ul>
-  <p><a href="README.md">Retornar para o README</p>
+  <p><a href="../README.md">Retornar para o README</p>
 </ul>
